@@ -1,3 +1,3 @@
 # List of Students
 
-All ITP students in the workshop. *Add your name!* :smile:
+All ITP students in the workshop. *Seth Kranzler* :smile:

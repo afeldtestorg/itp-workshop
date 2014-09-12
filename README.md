@@ -2,4 +2,3 @@
 
 All ITP students in the workshop. *Add your name!* :smile:
 
-Jiashan Wu
